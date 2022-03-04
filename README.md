@@ -83,7 +83,7 @@ Cambio de Cheque $1801 - $2000
 
 10 RC
 
-Cambio de Cheque $2001 / - -
+Cambio de Cheque $2001 -
 
 12 RC
 
